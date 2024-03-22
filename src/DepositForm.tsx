@@ -247,6 +247,7 @@ const Headcontent = styled.div`
   justify-content: space-between;
   align-items: center;
   margin-top: 10px;
+  background: rgb(32,35,40);
 `;
 
 const CloseButton = styled.button`
@@ -260,6 +261,7 @@ const CloseButton = styled.button`
   margin-top: -10%;
   background-repeat: no-repeat;
   background-size: 100%;
+  background-color: transparent;
 `;
 const Tipspot = styled.div`
   background: rgb(20,20,22);
